@@ -1,0 +1,15 @@
+huggingface_hub  
+pytesseract  
+gradio  
+llama-stack  
+opencv-python  
+PyMuPDF  
+python-docx  
+openpyxl  
+python-pptx  
+transformers  
+torch  
+tensorflow  
+accelerate  
+SpeechRecognition  
+pydub
