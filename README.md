@@ -59,7 +59,7 @@ Ensure you have the following installed on your machine:
 
 ## Usage
 
-1. Text Extraction: You can input text either through files (PDF, PowerPoint, Word, images) or audio recordings. The tool supports both English and Arabic languages.
+1. Text Extraction: You can input text through files (PDF, PowerPoint, Word, images) or audio recordings. The tool supports both English and Arabic languages.
 
 2. Choose Functionality:
 
@@ -76,6 +76,9 @@ This project utilizes the following libraries and models:
     - speech_recognition
     - pydub
 - Summarization and QG: Powered by Llama 3.2 1B model.
+
+<img src="https://github.com/user-attachments/assets/941528d9-0d16-45ce-ab8d-5d346efa2a60" alt="image" width="390" height="390" />
+<img src="https://github.com/user-attachments/assets/d0a7db6b-ed70-4c2d-b822-4b234e4c65f1" alt="image" width="390" height="390" />
 
 ## Interface
 
@@ -97,8 +100,8 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- Llama and its creators for providing the powerful language models.
+- Llama and its creators for providing powerful language models.
 - PyTesseract for effective OCR capabilities.
-- SpeechRecognition and pydub for their contributions to speech-to-text conversions.
+- SpeechRecognition and Pydub for their contributions to speech-to-text conversions.
 - Gradio for providing an excellent interface for testing and interaction.
 - Contributors and the open-source community for guidance and support.
