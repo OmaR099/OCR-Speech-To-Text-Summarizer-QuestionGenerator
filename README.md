@@ -77,8 +77,8 @@ This project utilizes the following libraries and models:
     - pydub
 - Summarization and QG: Powered by Llama 3.2 1B model.
 
-<img src="https://github.com/user-attachments/assets/941528d9-0d16-45ce-ab8d-5d346efa2a60" alt="image" width="390" height="390" />
-<img src="https://github.com/user-attachments/assets/d0a7db6b-ed70-4c2d-b822-4b234e4c65f1" alt="image" width="390" height="390" />
+<img src="https://github.com/user-attachments/assets/941528d9-0d16-45ce-ab8d-5d346efa2a60" alt="image" width="330" height="330" />
+<img src="https://github.com/user-attachments/assets/d0a7db6b-ed70-4c2d-b822-4b234e4c65f1" alt="image" width="330" height="330" />
 
 ## Interface
 
