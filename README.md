@@ -27,8 +27,6 @@ This project is a comprehensive tool that integrates Optical Character Recogniti
 
 ## Prerequisites  
 
-## Prerequisites  
-
 Ensure you have the following installed on your machine:  
 
 - **Python 3.7 or higher**  
