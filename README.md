@@ -1,4 +1,4 @@
-![OCR](https://github.com/user-attachments/assets/018d62f7-f137-459e-a108-79e2218f6eca)# OCR Speech-to-Text Summarizer & Question Generator  
+# OCR Speech-to-Text Summarizer & Question Generator  
 
 This project is a comprehensive tool that integrates Optical Character Recognition (OCR), Speech-to-Text capabilities, text summarization, and question generation. Utilizing Llama 3.2 with 1B parameters for summarization and question generation, the tool accepts text input from various formats including PDFs, PowerPoint presentations, Word documents, images, and audio files. Users can summarize text, generate questions, or perform both functions. The application will default to text extraction only if no options are selected. 
 
