@@ -86,13 +86,14 @@ The project includes a Gradio interface for user interaction. Once the applicati
 
 **Audio**
 
-<img src="https://github.com/user-attachments/assets/ac9a1ace-cb36-4152-833f-c5a44af333ac" alt="image" width="380" height="380" />
-<img src="https://github.com/user-attachments/assets/065d2c46-076a-4a23-8524-9f405088abb0" alt="image" width="380" height="380" />
+![audio](https://github.com/user-attachments/assets/b0fcd0b6-b942-4396-8471-6792537aff8d)
+
+![audio2](https://github.com/user-attachments/assets/209eaf68-b4d2-442b-860f-ee52e919e3de)
+
 
 **OCR & Documents**
 
-<img src="https://github.com/user-attachments/assets/fde3cc01-37ff-4eae-b1d0-b7b0a8206bb0" alt="image" width="380" height="380" />
-<img src="https://github.com/user-attachments/assets/d0a7db6b-ed70-4c2d-b822-4b234e4c65f1" alt="image" width="380" height="380" />
+![OCR](https://github.com/user-attachments/assets/525be5c3-1c12-423b-8071-803a9f1accbc)
 
 ## Contributing
 
