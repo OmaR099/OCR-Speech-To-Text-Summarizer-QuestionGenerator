@@ -95,6 +95,10 @@ The project includes a Gradio interface for user interaction. Once the applicati
 
 ![OCR](https://github.com/user-attachments/assets/525be5c3-1c12-423b-8071-803a9f1accbc)
 
+![Screenshot 2024-10-07 220105](https://github.com/user-attachments/assets/3193787d-7ad9-445a-94b3-ede49d1de1e6)
+
+![image](https://github.com/user-attachments/assets/18abcec8-e719-43ca-ae59-bece69fbaf4d)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
